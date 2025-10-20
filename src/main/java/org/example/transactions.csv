@@ -1,0 +1,61 @@
+date|time|description|vendor|amount
+2025-10-19|14:30:00|Lunch|Subway|-12.50
+2025-10-19|09:00:00|Salary|Company|1500.00
+2023-04-15|10:13:25|ergonomic keyboard|Amazon|-89.50
+2023-04-15|11:15:00|Invoice 1001 paid|Joe|1500.00
+2025-01-05|09:30:00|Coffee|Starbucks|-5.50
+2025-01-06|12:15:00|Salary|Company A|1500.00
+2025-01-07|18:45:00|Groceries|Walmart|-72.34
+2025-01-08|14:00:00|Freelance Payment|Client B|600.00
+2025-01-09|08:20:00|Bus Ticket|City Transit|-2.75
+2025-01-10|19:30:00|Restaurant Dinner|Olive Garden|-45.60
+2025-01-11|10:00:00|Gift Received|Uncle John|200.00
+2025-01-12|07:15:00|Gas|Shell|-40.00
+2025-01-13|13:00:00|Book Purchase|Amazon|-15.99
+2025-01-14|16:30:00|Bonus|Company A|300.00
+2025-01-15|20:00:00|Movie|AMC|-12.50
+2025-01-16|09:45:00|Groceries|Target|-85.20
+2025-01-17|11:30:00|Freelance Payment|Client C|450.00
+2025-01-18|14:20:00|Subscription|Netflix|-12.99
+2025-01-19|18:00:00|Coffee|Starbucks|-4.75
+2025-01-20|12:00:00|Salary|Company A|1500.00
+date|time|description|vendor|amount
+2025-01-05|09:30:00|Coffee|Starbucks|-5.50
+2025-01-06|12:15:00|Salary|Company A|1500.00
+2025-01-07|18:45:00|Groceries|Walmart|-72.34
+2025-01-08|14:00:00|Freelance Payment|Client B|600.00
+2025-01-09|08:20:00|Bus Ticket|City Transit|-2.75
+2025-01-10|19:30:00|Restaurant Dinner|Olive Garden|-45.60
+2025-01-11|10:00:00|Gift Received|Uncle John|200.00
+2025-01-12|07:15:00|Gas|Shell|-40.00
+2025-01-13|13:00:00|Book Purchase|Amazon|-15.99
+2025-01-14|16:30:00|Bonus|Company A|300.00
+2025-01-15|20:00:00|Movie|AMC|-12.50
+2025-01-16|09:45:00|Groceries|Target|-85.20
+2025-01-17|11:30:00|Freelance Payment|Client C|450.00
+2025-01-18|14:20:00|Subscription|Netflix|-12.99
+2025-01-19|18:00:00|Coffee|Starbucks|-4.75
+2025-01-20|12:00:00|Salary|Company A|1500.00
+date|time|description|vendor|amount
+2020-03-15|10:15|Office Supplies|Staples|-45.20
+2020-08-02|14:45|Freelance Payment|Upwork|1200.00
+2021-01-22|09:10|Internet Bill|AT&T|-60.00
+2021-06-11|16:30|Software Subscription|Adobe|-35.99
+2021-11-20|18:50|Product Sale|Amazon|350.75
+2022-02-05|12:10|Lunch Meeting|Panera|-28.40
+2022-04-19|08:45|Consulting Fee|LinkedIn|500.00
+2022-09-01|15:30|Office Rent|WeWork|-700.00
+2023-01-14|11:25|Equipment Purchase|Best Buy|-430.00
+2023-05-23|13:00|Service Payment|Fiverr|250.00
+2023-08-09|09:50|Travel Expense|Uber|-25.50
+2023-12-28|20:15|Bonus Income|Employer|1000.00
+2024-02-18|10:05|Electric Bill|Austin Energy|-75.65
+2024-06-07|14:00|Website Hosting|GoDaddy|-19.99
+2024-09-23|17:40|Project Payment|Client A|800.00
+2025-01-10|11:45|Hardware Repair|TechFix|-150.00
+2025-03-28|09:30|Online Course|Udemy|-49.99
+2025-05-02|13:25|Consulting Income|Client B|1200.00
+2025-07-16|18:15|Office Snacks|Costco|-32.75
+2025-09-30|08:55|Software Renewal|Microsoft|-99.99
+
+
